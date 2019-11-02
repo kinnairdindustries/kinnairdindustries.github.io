@@ -1,3 +1,5 @@
 # Group 1
 User-agent: *
 Disallow: /privacy.html
+
+Sitemap: https://www.kinnairdindustries.ca/sitemap.xml
